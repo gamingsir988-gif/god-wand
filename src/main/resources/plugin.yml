@@ -1,9 +1,0 @@
-name: GodWand
-version: 1.0
-main: gamingsir.godwand.GodWand
-api-version: '1.21'
-commands:
-  godwand:
-    description: God Wand commands
-    usage: /godwand give <player> | /godwand random
-permission: godwand.admin
